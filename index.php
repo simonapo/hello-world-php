@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Hello World v2!</title>
+<title>Hello World!</title>
 </head>
 
 <body>
