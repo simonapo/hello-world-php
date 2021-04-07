@@ -7,7 +7,7 @@
 <body>
 
 <?php
-  echo "Hello World in PHP!";
+  echo "Hello World in PHP v2!";
 ?>
 
 </body>
